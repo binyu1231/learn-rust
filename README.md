@@ -2,8 +2,9 @@
 
 - Reference: <https://kaisery.github.io/trpl-zh-cn/title-page.html>
 - crate: <https://crates.io/>
+- 笔记整理到 <https://www.binyu.me/shortcut#Language> Rust 栏目下
 
-
+## 待整理
 ## OO
 
 ``` rust
