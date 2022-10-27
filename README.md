@@ -26,3 +26,33 @@ s.clear(); // s => ""
 ```
 ```
 
+# 模式与匹配模式 
+
+## 所有可能会用到模式的位置
+
+### `match` 分支
+
+一个模式常用的位置是 match 表达式的分支
+
+``` rust
+match VALUE {
+    PATTERN => EXPRESSION,
+    PATTERN => EXPRESSION,
+    PATTERN => EXPRESSION,
+}
+```
+
+
+- Chapter 19
+
+## trait
+
+
+
+
+
+
+- Chapter 20
+
+
+
